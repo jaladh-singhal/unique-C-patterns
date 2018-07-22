@@ -5,13 +5,14 @@ void main()
 {
 	//Enter both width and length either even or odd to maintain spacing btw horz. & vert. rows (h-=2 & v-=2)
 	int h,v,i,j,k,l,x=-1,y=1,a,b;
+	clrscr();
 	printf("NOTE: It will be better if you enter both width and length an even no.\n");
 	printf("Enter width ( <=40 ): ");
 	scanf("%d",&h);
 	printf("Enter length ( <=56 ): ");
 	scanf("%d",&v);
 	a=1, b=v+2;
-  clrscr();
+  	clrscr();
 	while(a!=0)
 	{
 	for(i=1;i<=h;i++)
