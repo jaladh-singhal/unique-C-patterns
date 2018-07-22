@@ -7,7 +7,7 @@ void gotoxy(int x,int y)
 	c.Y=y-1;
 	SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE),c);
 }
-main()
+void main()
 {
 	int i,j,a=40,b=41;
 	char name[6]={'J','A','L','A','D','H'};		//Or~ Input whatever 6 character - string you want
