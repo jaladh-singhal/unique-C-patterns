@@ -1,4 +1,7 @@
 # Unique Pattern Programs in C
-This repository contains some cool pattern programs (and animations) in C.
+Awesome list of some **cool pattern programs (and animations)** coded by me in C language alone.:computer:
 
-Each program is going to fascinate you for sure. All programs are *entirely loop based*, they don't use a single function from ```graphics.h```
+Each program is going to fascinate you for sure :heart_eyes: 
+All programs are *entirely iterative-logic based* without using any graphics-related function from external library (header files)!
+
+:anchor: Warm welcome to suggestions and contributions! 
